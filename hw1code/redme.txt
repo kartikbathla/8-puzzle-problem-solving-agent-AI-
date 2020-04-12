@@ -1,0 +1,4 @@
+Name - Kartik Bathla    
+Best Meal - idk man, cant decide, but an interesting one would be going to a michelin star restaurant wearing pyajamas and flip flops, sounds weird right, its got a story to it
+Summary - astar is most efficient then greedy then ucost and bfs at same level, as path cost is 1 here. Count has been the better heuristic in my experience. 
+Note - Everything is working 
